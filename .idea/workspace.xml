@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/loopDetect.py" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e67b89-a379-4d89-8e21-f477d0846784" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/private/privatedemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/reverse.py" afterDir="false" />
-    </list>
+    <list default="true" id="83e67b89-a379-4d89-8e21-f477d0846784" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="66" />
     <option name="width" value="536" />
     <option name="height" value="629" />
@@ -248,7 +244,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="7" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24517088" />
