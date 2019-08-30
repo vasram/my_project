@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 list=[]
 n=int(input("enter the array size"))
 for i in range(n):
